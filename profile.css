@@ -228,6 +228,12 @@ header img {
   margin-bottom: 0.5em;
   text-align: center;
 }
+@media only screen and (max-device-width: 500px) {
+	.Title {
+		font-size: 1em;
+	}
+	
+}
 
 .topTitle {
   border: 0.1em solid #737373;
