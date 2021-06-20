@@ -311,51 +311,71 @@ header img {
 }
 
 @media screen and (min-width: 900px) {
-.box {
+.box2nd {
   display: flex;
   flex-direction: column;
   align-items: center;
   color: white;
   background-color: #02CD02;
-  width: 12em;
-  height: 15em;
-  padding: 0.7em;
-  padding-top: 0;
+  width: 13em;
+  height: 12em;
+  padding-bottom: 3%;
   position: relative;
-  top: -13%;
-  left: 7.5%;
+  margin-top: 5%;
+  top: -17%;
+  left: 3.5%;
   text-align: center;
-  font-size: 0.59em;
+  font-size: 0.69em;
+ }
+
+ .box2nd p {
+     font-size: 0.8em;
  }
 }
 
+
 @media screen and (max-width: 899px) {
-.box {
+.box2nd {
   display: flex;
   flex-direction: column;
   align-items: center;
   color: white;
   background-color: #02CD02;
-  width: 16em;
-  height: 12em;
+  width: 19em;
+  height: 9em;
   position: relative;
-  top: -25%;
-  left: 13%;
+  margin-top: 5%;
+  left: 8%;
   text-align: center;
   font-size: 0.69em;
  }
 }
 
-.EN1: {
-  font-size: 0.1em;
+@media screen and (max-width: 899px) {
+#Morespacing {
+  height: 10em;
 }
-
-.lineBreak {
+}
+@media screen and (min-width: 900px) {
+.lineBreak2 {
   margin-top: -5%;
+  margin-bottom: -2%;
   width: 8em;
   background-color: white;
   height: 0.05em;
+ }
 }
+
+@media screen and (max-width: 899px) {
+.lineBreak2 {
+  margin-top: -5%;
+  margin-bottom: -2%;
+  width: 8em;
+  background-color: white;
+  height: 0.05em;
+ }
+}
+
 
 @media screen and (min-width: 900px) {
 .button {
@@ -372,7 +392,7 @@ header img {
 
 @media screen and (max-width: 899px) {
 .button {
-  margin-top: -7%;
+  margin-top: -3%;
   background-color: white;
   text-align: center;
   text-decoration: none;
