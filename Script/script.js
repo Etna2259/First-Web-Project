@@ -29,12 +29,14 @@ $('#lang-switch').change(function () { // put onchange event when user select op
             $('[lang="en"]').show();
             $("#JPN_calendar").attr("src","Images/Home Page/EN Calendar.png");
             $("#JPN_schedule").attr("src","Images/Home Page/EN Schedule.png");
+			$("#JPN_director").attr("src","Images/Sub Page/Hospital Profile/Director_s note/EN Director_s note.png");
         break;
         case 'jp':
             $('[lang]').hide();
             $('[lang="jp"]').show();
             $("#JPN_calendar").attr("src","Images/Home Page/JPN Calendar.png");
             $("#JPN_schedule").attr("src","Images/Home Page/JPN Schedule.png");
+			$("#JPN_director").attr("src","Images/Sub Page/Hospital Profile/Director_s note/JPN Director_s note.png");
         break;
         default:
             $('[lang]').hide();
