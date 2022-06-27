@@ -1,6 +1,6 @@
 # Web & Mobile Technology Group Project
 This is a Clinic webpage redesigned in a group project in a course work back in 2021/6.
-This page is accessible via [canconan123.github.io](https://canconan123.github.io/First-Web-Project/)
+This page is accessible via [canconan123.github.io](https://etna2259.github.io/First-Web-Project/)
 
 Features of this page includes:
 - Interactive in-page map showing the clinic's location
