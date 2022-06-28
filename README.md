@@ -8,4 +8,4 @@ Features of this page includes:
 - Available in 2 languages both in English and Japanese via a drop down menu for language swap (Not website wide unfortunately)
 - Optimizied for both Desktop and Mobile devices viewing experience
 
-**The project is for archive purposes only to look back at the hard-work of a 3-man group carrying 1 deadweight member
+##This page is special because it is my first independent project working with web development
